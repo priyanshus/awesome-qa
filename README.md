@@ -9,7 +9,6 @@ This is intended to be a curation of resources for Software Testers to read. Not
 
 
 ## What is Testing
-![](https://github.com/TheJambo/awesome-testing/blob/master/AwesomeTesting.jpg?raw=true)
 
 #### Videos
 - [Open Lecture by James Bach on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU)

@@ -8,7 +8,7 @@
 * [Sunshine](https://github.com/tatools/sunshine/)
 
 #### BDD
-* [JBehave](https://jbehave.org/) - JBehave is a framework for Behaviour*Driven Development (BDD).
+* [JBehave](https://jbehave.org/) - JBehave is a framework for Behaviour-Driven Development (BDD).
 * [Serenity BDD](http://www.thucydides.info/#/) - Serenity BDD helps you write cleaner and more maintainable automated acceptance and regression tests faster.
 
 #### Automation Libraries

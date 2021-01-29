@@ -15,5 +15,5 @@ This is intended to be a curation of resources for Software Testers to read. Not
 * [Exploratory Testing](https://github.com/priyanshus/awesome-qa/blob/master/exploratory-testing.md) - Exploratory Testing Resources
 * [Critical Thinking](https://github.com/priyanshus/awesome-qa/blob/master/critical-thinking.md) - Critical Thinking
 * [Books](https://github.com/priyanshus/awesome-qa/blob/master/books.md) - Books one should read to know more about Testing.
-* [Newsletters](#https://github.com/priyanshus/awesome-qa/blob/master/critical-thinking.md)
+* [Newsletters](https://github.com/priyanshus/awesome-qa/blob/master/newsletters.md)
 

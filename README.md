@@ -1,4 +1,4 @@
-# awesome*qa
+# awesome-qa
 > A curated list of QA resources.
 
 ## Foreword

@@ -7,5 +7,6 @@
 
 ### Blogs
 * [A Tester’s Commitments](https://www.satisfice.com/blog/archives/652)
+* [What Do Software Testers Do?](https://www.ministryoftesting.com/dojo/lessons/what-do-software-testers-do-version-0-1)
 * [The QA Role - What Is It Really?](https://www.thoughtworks.com/insights/blog/qa-role-what-it-really)
 * [Agile Teseter 3.0](https://www.thoughtworks.com/insights/blog/agile-tester-30)

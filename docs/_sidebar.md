@@ -11,5 +11,6 @@
   - [Exploratory Testing](/others/exploratory-testing.md)
 - **CI/CD**
   - [Introduction To CI/CD](/cicd/introduction-to-cicd.md)
+- [Agile](/agile/agile-introduction.md)
 - [Critical Thinking](/others/critical-thinking.md)
 - [Books](/others/books.md)

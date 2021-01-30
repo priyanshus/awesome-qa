@@ -1,4 +1,5 @@
 ## What is Testing
+> "The purpose of testing is to cast light on the status of the product and it’s context, in the service of our stakeholders.” James Bach. We are not Product Management, we do not make the go/no-go calls on releases – we are simply the lighthouse, that points out risk and potential problems so that our stakeholders can make much more informed decisions about how to run the business.
 
 #### Videos
 * [Open Lecture by James Bach on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU)

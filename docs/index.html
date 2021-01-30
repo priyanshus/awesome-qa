@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Awesome QA</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta
+      name="description"
+      content="Curated list of awesome resources for QA."
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css"
+    />
+    <script src="//unpkg.com/docsify-edit-on-github@1.0.3/index.js"></script>
+  </head>
+
+  <body>
+    <div id="app">Loading…</div>
+    <script>
+      window.$docsify = {
+        homepage: "README.md",
+        name: 'awesome-qa',
+        repo: 'https://github.com/priyanshus/awesome-qa',
+        coverpage: false,
+        loadSidebar: true,
+        subMaxLevel: 1,
+        auto2top: true,
+        search: 'auto',
+        plugins: [EditOnGithubPlugin.create(
+          'https://github.com/priyanshus/awesome-qa/blob/master/docs/',null, 'Edit on GIT'
+        )]
+      };
+    </script>
+    <script src="//unpkg.com/docsify@4.11.6/lib/docsify.min.js"></script>
+    <script src="//unpkg.com/docsify@4.11.6/lib/plugins/emoji.min.js"></script>
+    <script src="//unpkg.com/docsify@4.11.6/lib/plugins/ga.min.js"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+  </body>
+</html>

@@ -1,5 +1,5 @@
 # awesome-qa
-> A curated list of awesome QA blogs, frameworks, tools, libraries, etc.
+> A curated list of awesome QA resources.
 
 ## Foreword
 This is intended to be a curation of resources for Software Testers to read. Not targeteed to any specific topic or role.

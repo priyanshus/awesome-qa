@@ -2,15 +2,17 @@
 - **Introduction to Testing**
   - [What is Testing?](/introduction/what-is-testing.md)
   - [Test Classifications](/introduction/test-classification.md)
-  - [Test Strategy](/introduction/test-strategy.md)
+  - [Test Ideas](/introduction/test-ideas.md)
   - [Tester's responsibilities](/introduction/testers-responsibilities.md)
 - **Automation**
+  - [Test Automation Strategy](/automation/test-automation-strategy.md)
   - [UI Automation](/automation/ui-test-automation.md)
   - [API Automation](/automation/api-test-automation.md)
 - **Testing Techniques**
   - [Exploratory Testing](/others/exploratory-testing.md)
 - **CI/CD**
   - [Introduction To CI/CD](/cicd/introduction-to-cicd.md)
-- [Agile](/agile/agile-introduction.md)
-- [Critical Thinking](/others/critical-thinking.md)
-- [Books](/others/books.md)
+- [**Security Testing**](/others/security-testing.md)
+- [**Agile**](/agile/agile-introduction.md)
+- [**Critical Thinking**](/others/critical-thinking.md)
+- [**Books**](/others/books.md)

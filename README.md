@@ -8,7 +8,6 @@ This is intended to be a curation of resources for Software Testers to follow. N
 
 Happy Learnning!
 
-
 ## Contribution
 Just fork and raise a pull request [here](https://github.com/priyanshus/awesome-qa).
 

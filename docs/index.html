@@ -30,12 +30,16 @@
         repo: 'https://github.com/priyanshus/awesome-qa',
         coverpage: false,
         loadSidebar: true,
-        subMaxLevel: 1,
-        auto2top: true,
-        search: 'auto'
+        subMaxLevel: 2,
+        sidebarDisplayLevel: 2,
+
+        alias: {
+          "/.*/_sidebar.md": "/_sidebar.md",
+        },
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/docsify@4.11.6/lib/plugins/emoji.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   </body>
 </html>

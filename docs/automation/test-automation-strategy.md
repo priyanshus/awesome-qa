@@ -1,4 +1,4 @@
-## Test Strategy
+## Test Automation Strategy
 
 ### Blogs
 * [TestPyramid](https://martinfowler.com/bliki/TestPyramid.html) - Test Pyramid By Martin Fowler

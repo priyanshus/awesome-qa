@@ -1,7 +1,7 @@
 # awesome-qa
 > A curated list of awesome QA resources.
 
-👉 **[Check the resources here](https://priyanshus.github.io/awesome-qa)**
+# 👉 [Check the resources here](https://priyanshus.github.io/awesome-qa)
 
 ## Foreword
 This is intended to be a curation of resources for Software Testers to follow. Not targeteed to any specific topic or role.

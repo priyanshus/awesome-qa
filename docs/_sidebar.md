@@ -6,12 +6,11 @@
   - [Tester's responsibilities](/introduction/testers-responsibilities.md)
 - **Automation**
   - [Test Automation Strategy](/automation/test-automation-strategy.md)
-  - [UI Automation](/automation/ui-test-automation.md)
-  - [API Automation](/automation/api-test-automation.md)
-- **Testing Techniques**
-  - [Exploratory Testing](/others/exploratory-testing.md)
-- **CI/CD**
-  - [Introduction To CI/CD](/cicd/introduction-to-cicd.md)
+  - [UI Test Automation](/automation/ui-test-automation.md)
+  - [API Test Automation](/automation/api-test-automation.md)
+  - [Performance Test Automation](/automation/performance-test-automation.md)
+- [**Exploratory Testing**](/others/exploratory-testing.md)
+- [**CI/CD**](/cicd/introduction-to-cicd.md)
 - [**Security Testing**](/others/security-testing.md)
 - [**Agile**](/agile/agile-introduction.md)
 - [**Critical Thinking**](/others/critical-thinking.md)

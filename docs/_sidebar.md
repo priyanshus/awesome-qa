@@ -1,4 +1,3 @@
-- [**Home**](/)
 - **Introduction to Testing**
   - [What is Testing?](/introduction/what-is-testing.md)
   - [Test Classifications](/introduction/test-classification.md)

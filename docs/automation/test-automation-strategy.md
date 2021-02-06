@@ -10,6 +10,7 @@
 **Vidoes**
 * [Redefining Test Automation: Must Watch](https://www.youtube.com/watch?v=uIDvGzQdoxc)
 * [Integrated tests are a scam](https://vimeo.com/80533536)
+* [Readable, Stable, Maintainable e2e Testing @Facebook](https://www.youtube.com/watch?v=diYgXpktTqo)
 
 **Reference Code**
 * [bookstore](https://github.com/priyanshus/bookstore) - The primary objective to develope bookstore is to learn practical test implementation in a spring app based on the test pyramid concepts.

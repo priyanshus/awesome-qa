@@ -39,4 +39,7 @@
 * [Ranorex](https://www.ranorex.com/) - All in one test automation for desktop, web and mobile.
 </details>
 
-#### Videos
+**Videos**
+
+**Other Useful Resources**
+* [Why Cypress sucks for real test Automation](https://zhiminzhan.medium.com/why-cypress-sucks-for-real-test-automation-part-2-limitations-53c1914acd0d)

@@ -14,3 +14,6 @@
 
 **Reference Code**
 * [bookstore](https://github.com/priyanshus/bookstore) - The primary objective to develope bookstore is to learn practical test implementation in a spring app based on the test pyramid concepts.
+
+**Other Useful Resources**
+* [Where to Trigger E2E Test in MicroService Land](https://club.ministryoftesting.com/t/where-to-trigger-e2e-test-suite-in-microservice-land/47631/12)

@@ -4,7 +4,7 @@
 **Blogs**
 * [Load Testing With Gatling](https://theartfultester.com/blog/2021/01/05/load-testing-with-gatling-1/)
 * [Are we performance testing the right way?](https://roshnithomas.medium.com/are-we-performance-testing-the-right-way-51a56805a3b0)
-
+* [Client Side Performance Testing](https://dzone.com/articles/client-side-performance-testing)
 
 **Tools**
 * [Apache Jmeter](http://jmeter.apache.org/)

@@ -13,4 +13,4 @@
 
 
 ### Test Environments
-* [Using a Shared, Centrally Managed QA Environment vs. an Individual Environment: Benefits, Drawbacks, and Personal Experience (https://www.stickyminds.com/article/using-shared-centrally-managed-qa-environment-vs-individual-environment-benefits-drawbacks)
+* [Using a Shared, Centrally Managed QA Environment vs. an Individual Environment: Benefits, Drawbacks, and Personal Experience](https://www.stickyminds.com/article/using-shared-centrally-managed-qa-environment-vs-individual-environment-benefits-drawbacks)

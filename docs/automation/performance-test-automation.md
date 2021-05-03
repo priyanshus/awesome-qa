@@ -11,6 +11,7 @@
 * [Gatling](https://github.com/gatling/gatling)
 * [K6](https://github.com/loadimpact/k6)
 * [PageSpeed](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster.
+* [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Frontend performance testing
 
 **Reference Code**
 * [performance-testing-framework](https://github.com/serputko/performance-testing-framework)

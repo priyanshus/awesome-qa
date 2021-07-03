@@ -14,3 +14,4 @@
 - [**Agile**](/agile/agile-introduction.md)
 - [**Critical Thinking**](/others/critical-thinking.md)
 - [**Books**](/others/books.md)
+- [**Testing in Production**](/others/other-awesome-resources.md?id=testing-in-production)

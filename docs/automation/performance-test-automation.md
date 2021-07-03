@@ -15,3 +15,7 @@
 
 **Reference Code**
 * [performance-testing-framework](https://github.com/serputko/performance-testing-framework)
+* [Performance Testing on your Local Machine - The Art of Identifying Performance Issues early in your Development Cycle](https://confengine.com/conferences/agile-india-2021/proposal/15571/performance-testing-on-your-local-machine-the-art-of-identifying-performance-issues-early-in-your-development-cycle)
+
+**Slides**
+* [Latency vs Throughput](https://www.slideshare.net/jboner/scalability-availability-stability-patterns/20-You_should_strive_formaximal_throughputwithacceptable)
